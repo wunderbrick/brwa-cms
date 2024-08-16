@@ -7,8 +7,8 @@ contact_entries:
       Check out our Buckhannon River Paddlers facebook group. We'll routinely
       post updates on river conditions and upcoming meet-up opportunities. 
   - heading: Email
-    text: "For inqueries on the Buckhannon River section, please contact
-      buckhannonriverwatershed@gmail. For inqueries on the Tygart Valley River
+    text: "For inquiries on the Buckhannon River section, please contact
+      buckhannonriverwatershed@gmail. For inquiries on the Tygart Valley River
       section, please contact savethetygartwatershed@gmail.com. "
 ---
 We’d love to get in touch with you and hear your ideas and
