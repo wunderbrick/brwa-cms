@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Kaldi"
+title = "BTV Water Trail"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
